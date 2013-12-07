@@ -1,0 +1,480 @@
+Sun Oct 20 13:56:49 2013
+Client connected on socket 4 (thread 140214665725696)
+
+Sun Oct 20 13:58:11 2013
+Client connected on socket 4 (thread 139902557402880)
+
+Sun Oct 20 14:00:07 2013
+Client connected on socket 4 (thread 139906097231616)
+
+Sun Oct 20 14:02:40 2013
+Client connected on socket 4 (thread 139700358489856)
+
+Sun Oct 20 14:05:06 2013
+Client connected on socket 4 (thread 139996223584000)
+
+Sun Oct 20 14:07:53 2013
+Client connected on socket 4 (thread 140031444485888)
+
+Sun Oct 20 14:09:13 2013
+Client connected on socket 4 (thread 139705966044928)
+
+Sun Oct 20 14:10:17 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:11:39 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:11:45 2013
+Client connected on socket 9 (thread 140737337345792)
+
+Sun Oct 20 14:11:52 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:14:20 2013
+Client connected on socket 4 (thread 140300693534464)
+
+Sun Oct 20 14:14:57 2013
+Client connected on socket 4 (thread 139715691058944)
+
+Sun Oct 20 14:43:50 2013
+Client connected on socket 4 (thread 140340181108480)
+
+Sun Oct 20 14:45:18 2013
+Client connected on socket 4 (thread 140719164167936)
+
+Sun Oct 20 14:45:59 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:47:49 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:48:19 2013
+Client connected on socket 4 (thread 139874397218560)
+
+Sun Oct 20 14:48:37 2013
+Client connected on socket 4 (thread 140217497577216)
+
+Sun Oct 20 14:49:29 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:50:33 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:51:48 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:51:58 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:52:58 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:53:05 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:54:21 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:55:12 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:56:08 2013
+Client connected on socket 8 (thread 140737345738496)
+
+Sun Oct 20 14:56:25 2013
+Client connected on socket 4 (thread 139978217178880)
+
+Sun Oct 20 15:05:58 2013
+Client connected on socket 4 (thread 140315580913408)
+
+Tue Nov 12 21:17:20 2013
+Client connected on socket 4 (thread 3075611456)
+
+Thu Nov 14 10:22:01 2013
+Client connected on socket 4 (thread 140484842739456)
+
+Thu Nov 14 10:25:11 2013
+Client connected on socket 4 (thread 139779983423232)
+
+Thu Nov 14 10:27:19 2013
+Client connected on socket 4 (thread 140195837581056)
+
+Thu Nov 14 10:30:38 2013
+Client connected on socket 4 (thread 140691107780352)
+
+Thu Nov 14 10:34:53 2013
+Client connected on socket 4 (thread 140305847269120)
+
+Thu Nov 14 10:35:34 2013
+Client connected on socket 4 (thread 140444420069120)
+
+Thu Nov 14 10:40:26 2013
+Client connected on socket 4 (thread 140231133562624)
+
+Thu Nov 14 10:42:42 2013
+Client connected on socket 4 (thread 140347090413312)
+
+Thu Nov 14 10:43:01 2013
+Client connected on socket 4 (thread 139691560457984)
+
+Thu Nov 14 10:43:26 2013
+Client connected on socket 4 (thread 139999264986880)
+
+Thu Nov 14 10:45:23 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 10:56:26 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 10:56:46 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 10:57:06 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 10:57:18 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 10:57:37 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 10:58:19 2013
+Client connected on socket 4 (thread 140113199245056)
+
+Thu Nov 14 10:58:38 2013
+Client connected on socket 4 (thread 140415983228672)
+
+Thu Nov 14 10:59:02 2013
+Client connected on socket 4 (thread 139952266741504)
+
+Thu Nov 14 10:59:55 2013
+Client connected on socket 4 (thread 139887284016896)
+
+Thu Nov 14 11:02:05 2013
+Client connected on socket 4 (thread 139992890390272)
+
+Thu Nov 14 11:07:32 2013
+Client connected on socket 4 (thread 140284216817408)
+
+Thu Nov 14 11:09:19 2013
+Client connected on socket 4 (thread 140266606810880)
+
+Thu Nov 14 11:10:14 2013
+Client connected on socket 4 (thread 139991318701824)
+
+Thu Nov 14 11:48:17 2013
+Client connected on socket 4 (thread 140120799885056)
+
+Thu Nov 14 11:51:45 2013
+Client connected on socket 4 (thread 140030986643200)
+
+Thu Nov 14 11:52:35 2013
+Client connected on socket 4 (thread 140349964592896)
+
+Thu Nov 14 11:55:53 2013
+Client connected on socket 4 (thread 140503992256256)
+
+Thu Nov 14 11:57:04 2013
+Client connected on socket 4 (thread 139996762326784)
+
+Thu Nov 14 11:57:56 2013
+Client connected on socket 4 (thread 140565193180928)
+
+Thu Nov 14 11:58:58 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 12:00:22 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 12:02:05 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 12:03:00 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 12:10:05 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 12:14:40 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 12:20:04 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 12:21:28 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 12:24:07 2013
+Client connected on socket 8 (thread 140737345734400)
+
+Thu Nov 14 12:29:04 2013
+Client connected on socket 4 (thread 140060348667648)
+
+Wed Nov 27 21:58:38 2013
+Client connected on socket 4 (thread 140556339672832)
+
+Wed Nov 27 22:00:01 2013
+Client connected on socket 4 (thread 140720258905856)
+
+Wed Nov 27 22:01:15 2013
+Client connected on socket 4 (thread 140040462657280)
+
+Wed Nov 27 22:02:28 2013
+Client connected on socket 4 (thread 139890900596480)
+
+Wed Nov 27 22:27:42 2013
+Client connected on socket 4 (thread 140453413168896)
+
+Wed Nov 27 22:31:07 2013
+Client connected on socket 4 (thread 139734742890240)
+
+Wed Nov 27 22:33:21 2013
+Client connected on socket 4 (thread 139990897440512)
+
+Wed Nov 27 22:35:47 2013
+Client connected on socket 4 (thread 140314429232896)
+
+Wed Nov 27 22:36:47 2013
+Client connected on socket 4 (thread 140168408143616)
+
+Wed Nov 27 22:44:11 2013
+Client connected on socket 4 (thread 140090776254208)
+
+Wed Nov 27 22:45:09 2013
+Client connected on socket 4 (thread 140172034246400)
+
+Wed Nov 27 22:47:55 2013
+Client connected on socket 4 (thread 140550172931840)
+
+Wed Nov 27 22:49:55 2013
+Client connected on socket 8 (thread 140737337386752)
+
+Wed Nov 27 22:53:12 2013
+Client connected on socket 8 (thread 140737337386752)
+
+Wed Nov 27 22:56:27 2013
+Client connected on socket 8 (thread 140737337386752)
+
+Wed Nov 27 22:58:38 2013
+Client connected on socket 8 (thread 140737337386752)
+
+Wed Nov 27 23:01:36 2013
+Client connected on socket 4 (thread 140158543636224)
+
+Wed Nov 27 23:02:40 2013
+Client connected on socket 4 (thread 140303527941888)
+
+Wed Nov 27 23:03:54 2013
+Client connected on socket 4 (thread 140038277785344)
+
+Wed Nov 27 23:06:21 2013
+Client connected on socket 4 (thread 140133647775488)
+
+Wed Nov 27 23:09:43 2013
+Client connected on socket 4 (thread 139683123717888)
+
+Wed Nov 27 23:11:06 2013
+Client connected on socket 4 (thread 139758812174080)
+
+Wed Nov 27 23:26:31 2013
+Client connected on socket 8 (thread 140737337386752)
+
+Wed Nov 27 23:34:00 2013
+Client connected on socket 4 (thread 140707017635584)
+
+Wed Nov 27 23:34:28 2013
+Client connected on socket 4 (thread 140519947736832)
+
+Wed Nov 27 23:37:31 2013
+Client connected on socket 4 (thread 140646594262784)
+
+Wed Nov 27 23:38:25 2013
+Client connected on socket 4 (thread 140313482704640)
+
+Wed Nov 27 23:39:16 2013
+Client connected on socket 8 (thread 140737337386752)
+
+Wed Nov 27 23:42:39 2013
+Client connected on socket 4 (thread 139735268525824)
+
+Wed Nov 27 23:43:56 2013
+Client connected on socket 4 (thread 140558830130944)
+
+Wed Nov 27 23:45:06 2013
+Client connected on socket 4 (thread 140449095079680)
+
+Wed Nov 27 23:48:59 2013
+Client connected on socket 4 (thread 139887022094080)
+
+Wed Nov 27 23:50:11 2013
+Client connected on socket 4 (thread 140631156430592)
+
+Wed Nov 27 23:54:16 2013
+Client connected on socket 4 (thread 140561940436736)
+
+Wed Nov 27 23:55:52 2013
+Client connected on socket 4 (thread 140214468011776)
+
+Wed Nov 27 23:58:53 2013
+Client connected on socket 4 (thread 140729202714368)
+
+Wed Nov 27 23:59:42 2013
+Client connected on socket 4 (thread 139721269290752)
+
+Thu Nov 28 00:06:32 2013
+Client connected on socket 4 (thread 140368665765632)
+
+Thu Nov 28 00:10:15 2013
+Client connected on socket 4 (thread 140594608375552)
+
+Thu Nov 28 00:14:10 2013
+Client connected on socket 4 (thread 140601724065536)
+
+Thu Nov 28 00:22:00 2013
+Client connected on socket 4 (thread 140473283499776)
+
+Thu Nov 28 00:25:44 2013
+Client connected on socket 4 (thread 140399636317952)
+
+Thu Nov 28 00:26:14 2013
+Client connected on socket 4 (thread 139972869748480)
+
+Thu Nov 28 00:28:13 2013
+Client connected on socket 4 (thread 140209826060032)
+
+Thu Nov 28 00:30:52 2013
+Client connected on socket 4 (thread 140542533883648)
+
+Thu Nov 28 00:33:12 2013
+Client connected on socket 4 (thread 139836174849792)
+
+Thu Nov 28 00:35:36 2013
+Client connected on socket 4 (thread 140213188241152)
+
+Thu Nov 28 00:38:06 2013
+Client connected on socket 8 (thread 140737337386752)
+
+Thu Nov 28 00:42:52 2013
+Client connected on socket 8 (thread 140737337386752)
+
+Thu Nov 28 00:46:53 2013
+Client connected on socket 8 (thread 140737337386752)
+
+Thu Nov 28 00:49:39 2013
+Client connected on socket 8 (thread 140737337386752)
+
+Thu Nov 28 01:02:02 2013
+Client connected on socket 4 (thread 139765582984960)
+
+Thu Nov 28 01:03:25 2013
+Client connected on socket 4 (thread 140134501328640)
+
+Thu Nov 28 01:04:48 2013
+Client connected on socket 4 (thread 139997621921536)
+
+Thu Nov 28 01:08:08 2013
+Client connected on socket 4 (thread 140250630391552)
+
+Thu Nov 28 01:12:55 2013
+Client connected on socket 4 (thread 139972005177088)
+
+Thu Nov 28 01:19:29 2013
+Client connected on socket 4 (thread 139876937135872)
+
+Thu Nov 28 01:22:07 2013
+Client connected on socket 4 (thread 139780968048384)
+
+Thu Nov 28 01:24:33 2013
+Client connected on socket 4 (thread 139999709181696)
+
+Thu Nov 28 01:27:26 2013
+Client connected on socket 4 (thread 140371401787136)
+
+Thu Nov 28 01:35:00 2013
+Client connected on socket 4 (thread 139993625323264)
+
+Thu Nov 28 01:37:30 2013
+Client connected on socket 4 (thread 140240148137728)
+
+Thu Nov 28 01:40:52 2013
+Client connected on socket 4 (thread 140725500954368)
+
+Thu Nov 28 01:42:42 2013
+Client connected on socket 5 (thread 140725492561664)
+
+Thu Nov 28 01:44:44 2013
+Client connected on socket 4 (thread 140270008370944)
+
+Thu Nov 28 01:45:23 2013
+Client connected on socket 4 (thread 140698771707648)
+
+Thu Nov 28 01:48:10 2013
+Client connected on socket 4 (thread 139792536409856)
+
+Thu Nov 28 01:57:33 2013
+Client connected on socket 4 (thread 139884723853056)
+
+Thu Nov 28 02:04:21 2013
+Client connected on socket 4 (thread 140636857014016)
+
+Thu Nov 28 02:17:29 2013
+Client connected on socket 4 (thread 140127794366208)
+
+Thu Nov 28 02:20:48 2013
+Client connected on socket 4 (thread 140254691403520)
+
+Thu Nov 28 02:24:58 2013
+Client connected on socket 4 (thread 140079216150272)
+
+Thu Nov 28 02:27:17 2013
+Client connected on socket 4 (thread 140494021732096)
+
+Thu Nov 28 02:28:14 2013
+Client connected on socket 4 (thread 139634269079296)
+
+Thu Nov 28 02:31:02 2013
+Client connected on socket 4 (thread 140462874740480)
+
+Thu Nov 28 02:32:59 2013
+Client connected on socket 4 (thread 139695170270976)
+
+Thu Nov 28 02:34:54 2013
+Client connected on socket 4 (thread 140621839550208)
+
+Thu Nov 28 02:37:15 2013
+Client connected on socket 4 (thread 140205740222208)
+
+Thu Nov 28 02:48:18 2013
+Client connected on socket 4 (thread 139672810469120)
+
+Thu Nov 28 02:52:31 2013
+Client connected on socket 4 (thread 140414012864256)
+
+Thu Nov 28 12:10:46 2013
+Client connected on socket 4 (thread 139697556211456)
+
+Thu Nov 28 12:17:28 2013
+Client connected on socket 4 (thread 139919319578368)
+
+Thu Nov 28 12:46:43 2013
+Client connected on socket 4 (thread 140340475873024)
+
+Thu Nov 28 12:48:19 2013
+Client connected on socket 4 (thread 140505069184768)
+
+Thu Nov 28 12:51:54 2013
+Client connected on socket 4 (thread 140173808932608)
+
+Thu Nov 28 12:58:34 2013
+Client connected on socket 4 (thread 140221562717952)
+
+Thu Nov 28 13:01:22 2013
+Client connected on socket 5 (thread 140221562717952)
+
+Thu Nov 28 13:06:38 2013
+Client connected on socket 4 (thread 140573907457792)
+
+Thu Nov 28 13:13:26 2013
+Client connected on socket 4 (thread 139896975410944)
+
